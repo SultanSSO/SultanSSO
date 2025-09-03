@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><strong> 🤖 Welcomme to My Github Profile ! 🤖</strong></h3>
+  <h2><strong> 🤖 Welcomme to My Github Profile ! 🤖</strong></h2>
 </div>
 
 ---
@@ -15,8 +15,6 @@
 🌐 Internet Engineering Technology<br>
 📍 Yogyakarta, Central Java
 </p>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <br>
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
